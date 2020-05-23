@@ -12,3 +12,28 @@
 [epub|type~="bridgehead"] i{
 	font-style: normal;
 }
+
+#chapter-26 blockquote:last-of-type,
+#chapter-33 blockquote{
+	font-variant: small-caps;
+}
+
+#chapter-31 blockquote>p:nth-child(1),
+#chapter-31 blockquote>p:nth-child(4),
+#chapter-31 blockquote>p:nth-child(8),
+#chapter-31 blockquote>p:nth-child(10),
+#chapter-31 blockquote>p:nth-child(13),
+#chapter-31 blockquote>p:nth-child(17){
+	margin: 0.5em 0;
+}
+
+#chapter-31 blockquote>p:nth-child(1),
+#chapter-31 blockquote>p:nth-child(2),
+#chapter-31 blockquote>p:nth-child(4),
+#chapter-31 blockquote>p:nth-child(7),
+#chapter-31 blockquote>p:nth-child(8),
+#chapter-31 blockquote>p:nth-child(10),
+#chapter-31 blockquote>p:nth-child(13),
+#chapter-31 blockquote>p:nth-child(17){
+	text-align: center;
+}
