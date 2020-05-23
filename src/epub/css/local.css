@@ -23,6 +23,12 @@ abbr.era{
 	font-style: normal;
 }
 
+#chapter-11 p:nth-child(4){
+	margin: 0.5em 0;
+	text-align: center;
+	font-style: italic;
+}
+
 #chapter-26 blockquote:last-of-type,
 #chapter-33 blockquote{
 	font-variant: small-caps;
