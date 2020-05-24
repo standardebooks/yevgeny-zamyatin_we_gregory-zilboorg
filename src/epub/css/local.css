@@ -19,10 +19,6 @@ abbr.era{
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] i{
-	font-style: normal;
-}
-
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;

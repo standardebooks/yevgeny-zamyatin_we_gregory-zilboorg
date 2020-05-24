@@ -50,7 +50,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61963</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/003097284</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">Lots of characters are referred to by their opening letter and the dash. This is inconsistent with our linter, so most chapters have an override in se-lint-ignore.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/We_(novel)</meta>
@@ -61,6 +61,7 @@
 		<meta property="se:name.person.full-name" refines="#author">Yevgeny Ivanovich Zamyatin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Yevgeny_Zamyatin</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n50014714</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Gregory Zilboorg</dc:contributor>
 		<meta property="file-as" refines="#translator">Zilboorg, Gregory</meta>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-2.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-4.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-6.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-7.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-8.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-10.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-11.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-16.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-17.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-18.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-21.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-23.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-24.xhtml">
+		<ignore>
+			<code>t-005</code>
+			<reason>Quoted word, not speech.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-25.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-26.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-28.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-32.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-34.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-35.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-36.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Character names.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
