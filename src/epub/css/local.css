@@ -19,6 +19,16 @@ abbr.era{
 	text-indent: 0;
 }
 
+[epub|type~="chapter"]>section>header{
+	margin: 1em 0;
+	text-align: center;
+	font-style: italic;
+}
+
+[epub|type~="chapter"]>section>header+p{
+	margin-top: 0;
+}
+
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
@@ -36,12 +46,6 @@ abbr.era{
 
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
-}
-
-#chapter-11 p:nth-child(4){
-	margin: 0.5em 0;
-	text-align: center;
-	font-style: italic;
 }
 
 #chapter-26 blockquote:last-of-type,
