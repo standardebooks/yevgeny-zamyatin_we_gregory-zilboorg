@@ -11,6 +11,10 @@ abbr.era{
 	font-variant: all-small-caps;
 }
 
+span.name{
+	white-space: nowrap;
+}
+
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
