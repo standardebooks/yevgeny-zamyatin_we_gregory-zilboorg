@@ -41,7 +41,6 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008112904</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A thousand years in the future, the builder of a spaceship discovers his emotions.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
