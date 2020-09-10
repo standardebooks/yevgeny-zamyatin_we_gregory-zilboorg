@@ -11,6 +11,10 @@ abbr.era{
 	font-variant: all-small-caps;
 }
 
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
 .name{
 	white-space: nowrap;
 }
