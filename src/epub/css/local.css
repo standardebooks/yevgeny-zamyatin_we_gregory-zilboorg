@@ -6,8 +6,8 @@ footer{
 	text-align: right;
 }
 
-abbr.temperature,
-abbr.era{
+[epub|type~="se:temperature"],
+[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
