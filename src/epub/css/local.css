@@ -15,7 +15,7 @@ abbr.era{
 	font-variant: small-caps;
 }
 
-.name{
+[epub|type~="z3998:personal-name"]{
 	white-space: nowrap;
 }
 
