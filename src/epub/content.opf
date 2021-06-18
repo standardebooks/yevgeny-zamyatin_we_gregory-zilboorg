@@ -52,7 +52,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/61963</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/003097284</dc:source>
 		<meta property="se:production-notes">Lots of characters are referred to by their opening letter and the dash. This is inconsistent with our linter, so most chapters have an override in se-lint-ignore. Character names are also wrapped to make sure that they can be styled to avoid line-breaks.</meta>
-		<meta property="se:word-count">64030</meta>
+		<meta property="se:word-count">64026</meta>
 		<meta property="se:reading-ease.flesch">73.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/We_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/yevgeny-zamyatin_we_gregory-zilboorg</meta>
