@@ -29,9 +29,9 @@ footer{
 }
 
 [epub|type~="chapter"] > section > header{
+	font-style: italic;
 	margin: 1em 0;
 	text-align: center;
-	font-style: italic;
 }
 
 [epub|type~="chapter"] > section > header + p{
