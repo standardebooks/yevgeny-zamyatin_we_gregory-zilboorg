@@ -64,7 +64,7 @@ footer{
 #chapter-31 blockquote > p:nth-child(10),
 #chapter-31 blockquote > p:nth-child(13),
 #chapter-31 blockquote > p:nth-child(17){
-	margin: 0.5em 0;
+	margin: .5em 0;
 }
 
 #chapter-31 blockquote > p:nth-child(1),
