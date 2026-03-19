@@ -90,12 +90,6 @@
 			<reason>Character names.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-24.xhtml">
-		<ignore code="t-005">
-			<line>34</line>
-			<reason>Quoted word, not speech.</reason>
-		</ignore>
-	</file>
 	<file path="chapter-25.xhtml">
 		<ignore code="t-033">
 			<line>22</line>
