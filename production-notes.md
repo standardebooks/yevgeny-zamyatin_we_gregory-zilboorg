@@ -1,0 +1,1 @@
+Lots of characters are referred to by their opening letter and the dash. This is inconsistent with our linter, so most chapters have an override in se-lint-ignore. Character names are also wrapped to make sure that they can be styled to avoid line-breaks.
