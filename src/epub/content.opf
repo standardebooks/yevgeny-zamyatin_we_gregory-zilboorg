@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/yevgeny-zamyatin/we/gregory-zilboorg</dc:identifier>
 		<dc:date>2020-06-13T20:08:26Z</dc:date>
@@ -43,11 +43,11 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008112904</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:description id="description">A thousand years in the future, the builder of a spaceship discovers his emotions.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A thousand years in the future, the builder of a spaceship discovers his emotions.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;D-503 is the Builder of the &lt;i&gt;Integral&lt;/i&gt;, the United State’s first spaceship. A life of calculations and equations in the United State leaves little room for emotional expression outside of the pink slips that give one private time with another Number. The façade however starts to crack when I-330, a mysterious she-Number with a penchant for the Ancients, enters the picture.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;We&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/yevgeny-zamyatin"&gt;Yevgeny Zamyatin’s&lt;/a&gt; fourth novel, was written in 1920–21, but remained unpublished until its English release in 1924 due to conditions in the Soviet Union at the time (it was eventually published there in 1988). Its dystopian future setting predates Orwell’s &lt;i&gt;1984&lt;/i&gt; and &lt;a href="https://standardebooks.org/ebooks/aldous-huxley"&gt;Huxley’s&lt;/a&gt; &lt;i&gt;Brave New World&lt;/i&gt;, and it’s now considered a founding member of the genre. It has been translated into English and other languages many times; presented here is the original 1924 translation by Gregory Zilboorg.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61963</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/003097284</dc:source>
