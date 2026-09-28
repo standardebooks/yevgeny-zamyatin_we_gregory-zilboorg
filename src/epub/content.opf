@@ -59,7 +59,7 @@
 		<link href="https://github.com/standardebooks/yevgeny-zamyatin_we_gregory-zilboorg" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Yevgeny Zamyatin</dc:creator>
 		<meta property="file-as" refines="#author">Zamyatin, Yevgeny</meta>
-		<meta property="alternate-script" refines="#author" xml:lang="ru">Евге́ний Ива́нович Замя́тин</meta>
+		<meta property="alternate-script" refines="#author">Евге́ний Ива́нович Замя́тин</meta>
 		<meta property="schema:alternateName" refines="#author">Yevgeny Ivanovich Zamyatin</meta>
 		<link href="https://en.wikipedia.org/wiki/Yevgeny_Zamyatin" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50014714.html" refines="#author" rel="schema:sameAs"/>
@@ -67,7 +67,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Gregory Zilboorg</dc:contributor>
 		<meta property="file-as" refines="#translator">Zilboorg, Gregory</meta>
-		<meta property="alternate-script" refines="#translator" xml:lang="ru">Григорий Зильбург</meta>
+		<meta property="alternate-script" refines="#translator">Григорий Зильбург</meta>
 		<link href="https://en.wikipedia.org/wiki/Gregory_Zilboorg" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50013545.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
